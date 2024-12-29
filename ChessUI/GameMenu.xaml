@@ -1,0 +1,28 @@
+﻿<Window x:Class="ChessUI.GameMenu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Game Menu"
+        Height="800" Width="600"
+        Background="#260000"
+        WindowStartupLocation="CenterScreen"
+        Icon="/Assets/icon.ico" FontFamily="Segoe UI Light">
+
+    <Grid RenderTransformOrigin="0.5,0.5">
+        <Grid.Background>
+            <ImageBrush ImageSource="/Assets/Background.png" Stretch="UniformToFill"/>
+        </Grid.Background>
+
+        <TextBlock TextWrapping="Wrap" Margin="56,50,42,200" Foreground="White" FontSize="48" FontFamily="Segoe UI Light" TextAlignment="Center">
+            <Run Text="MENU GAME"/>
+            <LineBreak/>
+        </TextBlock>
+
+        <Button Content="PvP" Margin="100,380,100,0" FontFamily="Segoe UI Light" FontSize="18" Background="{x:Null}" Foreground="White" Click="PlayWithHumanButton_Click" Width="400" Height="50" VerticalAlignment="Top"/>
+
+        <Button Content="PvE" Margin="100,470,100,0" Background="{x:Null}" FontFamily="Segoe UI Light" FontSize="18" Foreground="White" Click="PlayWithAIButton_Click" Width="400" Height="50" VerticalAlignment="Top"/>
+
+        <Button Content="Game History" Margin="100,560,100,0" Background="{x:Null}" FontFamily="Segoe UI Light" FontSize="18" Foreground="White" Click="ViewHistoryButton_Click" Width="400" Height="50" VerticalAlignment="Top"/>
+
+        <Button Content="Back" Margin="100,650,100,0" Background="{x:Null}" FontFamily="Segoe UI Light" FontSize="18" Foreground="White" Click="ExitButton_Click" Width="400" Height="50" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

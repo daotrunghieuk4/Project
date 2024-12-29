@@ -1,0 +1,131 @@
+C:\Users\HP\Downloads\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.deps.json
+C:\Users\HP\Downloads\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.dll
+C:\Users\HP\Downloads\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.pdb
+C:\Users\HP\Downloads\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfo.cs
+C:\Users\HP\Downloads\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.dll
+C:\Users\HP\Downloads\Chess\ChessLogic\obj\Debug\net8.0\refint\ChessLogic.dll
+C:\Users\HP\Downloads\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.pdb
+C:\Users\HP\Downloads\Chess\ChessLogic\obj\Debug\net8.0\ref\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.deps.json
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.pdb
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessLogic\obj\Debug\net8.0\refint\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.pdb
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessLogic\obj\Debug\net8.0\ref\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.deps.json
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.pdb
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\Chess\ChessLogic\obj\Debug\net8.0\refint\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.pdb
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\Chess\ChessLogic\obj\Debug\net8.0\ref\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua\Chess\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.deps.json
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua\Chess\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua\Chess\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.pdb
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua\Chess\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua\Chess\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua\Chess\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua\Chess\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua\Chess\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua\Chess\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua\Chess\Chess\ChessLogic\obj\Debug\net8.0\refint\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua\Chess\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.pdb
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua\Chess\Chess\ChessLogic\obj\Debug\net8.0\ref\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.deps.json
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.pdb
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\refint\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.pdb
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ref\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua (2)\game_co_vua\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.deps.json
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua (2)\game_co_vua\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua (2)\game_co_vua\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.pdb
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua (2)\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua (2)\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua (2)\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua (2)\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua (2)\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua (2)\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua (2)\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\refint\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua (2)\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.pdb
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua (2)\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ref\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua (2)\game_co_vua (2)\game_co_vua\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.deps.json
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua (2)\game_co_vua (2)\game_co_vua\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua (2)\game_co_vua (2)\game_co_vua\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.pdb
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua (2)\game_co_vua (2)\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua (2)\game_co_vua (2)\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua (2)\game_co_vua (2)\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua (2)\game_co_vua (2)\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua (2)\game_co_vua (2)\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua (2)\game_co_vua (2)\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua (2)\game_co_vua (2)\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\refint\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua (2)\game_co_vua (2)\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.pdb
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua (2)\game_co_vua (2)\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ref\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua (3)\game_co_vua (2)\game_co_vua (2)\game_co_vua\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.deps.json
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua (3)\game_co_vua (2)\game_co_vua (2)\game_co_vua\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua (3)\game_co_vua (2)\game_co_vua (2)\game_co_vua\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.pdb
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua (3)\game_co_vua (2)\game_co_vua (2)\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua (3)\game_co_vua (2)\game_co_vua (2)\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua (3)\game_co_vua (2)\game_co_vua (2)\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua (3)\game_co_vua (2)\game_co_vua (2)\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua (3)\game_co_vua (2)\game_co_vua (2)\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua (3)\game_co_vua (2)\game_co_vua (2)\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua (3)\game_co_vua (2)\game_co_vua (2)\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\refint\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua (3)\game_co_vua (2)\game_co_vua (2)\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.pdb
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua (3)\game_co_vua (2)\game_co_vua (2)\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ref\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game\game_co_vua\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.deps.json
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game\game_co_vua\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game\game_co_vua\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.pdb
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\refint\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.pdb
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ref\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game (2)\game\game_co_vua\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.deps.json
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game (2)\game\game_co_vua\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game (2)\game\game_co_vua\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.pdb
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game (2)\game\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game (2)\game\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game (2)\game\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game (2)\game\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game (2)\game\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game (2)\game\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game (2)\game\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\refint\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game (2)\game\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.pdb
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game (2)\game\game_co_vua\Chess\ChessLogic\obj\Debug\net8.0\ref\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game (2)\game\game_co_vua\Chess\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.deps.json
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game (2)\game\game_co_vua\Chess\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game (2)\game\game_co_vua\Chess\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.pdb
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game (2)\game\game_co_vua\Chess\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game (2)\game\game_co_vua\Chess\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game (2)\game\game_co_vua\Chess\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game (2)\game\game_co_vua\Chess\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game (2)\game\game_co_vua\Chess\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game (2)\game\game_co_vua\Chess\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game (2)\game\game_co_vua\Chess\Chess\ChessLogic\obj\Debug\net8.0\refint\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game (2)\game\game_co_vua\Chess\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.pdb
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game (2)\game\game_co_vua\Chess\Chess\ChessLogic\obj\Debug\net8.0\ref\ChessLogic.dll

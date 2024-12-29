@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net8.0-windows7.0
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ChessUI_0jyi2mwq_wpftmp
+build_property.ProjectDir = C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\game_co_vua (3)\game_co_vua (2)\game_co_vua (2)\game_co_vua\Chess\ChessUI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

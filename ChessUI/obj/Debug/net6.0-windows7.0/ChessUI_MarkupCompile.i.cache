@@ -1,0 +1,20 @@
+﻿ChessUI
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\obj\Debug\net6.0-windows7.0\
+ChessUI
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\App.xaml
+51386531833
+
+14288271524
+203784941241
+GameOverMenu.xaml;LoginWindow.xaml;MainWindow.xaml;PauseMenu.xaml;PromotionMenu.xaml;
+
+True
+

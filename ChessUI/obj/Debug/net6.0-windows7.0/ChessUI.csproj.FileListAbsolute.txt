@@ -1,0 +1,114 @@
+C:\Users\HP\Downloads\Chess\ChessUI\bin\Debug\net6.0-windows7.0\ChessUI.exe
+C:\Users\HP\Downloads\Chess\ChessUI\bin\Debug\net6.0-windows7.0\ChessUI.deps.json
+C:\Users\HP\Downloads\Chess\ChessUI\bin\Debug\net6.0-windows7.0\ChessUI.runtimeconfig.json
+C:\Users\HP\Downloads\Chess\ChessUI\bin\Debug\net6.0-windows7.0\ChessUI.dll
+C:\Users\HP\Downloads\Chess\ChessUI\bin\Debug\net6.0-windows7.0\ChessUI.pdb
+C:\Users\HP\Downloads\Chess\ChessUI\bin\Debug\net6.0-windows7.0\ChessLogic.dll
+C:\Users\HP\Downloads\Chess\ChessUI\bin\Debug\net6.0-windows7.0\ChessLogic.pdb
+C:\Users\HP\Downloads\Chess\ChessUI\obj\Debug\net6.0-windows7.0\ChessUI.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Chess\ChessUI\obj\Debug\net6.0-windows7.0\GameOverMenu.g.cs
+C:\Users\HP\Downloads\Chess\ChessUI\obj\Debug\net6.0-windows7.0\MainWindow.g.cs
+C:\Users\HP\Downloads\Chess\ChessUI\obj\Debug\net6.0-windows7.0\App.g.cs
+C:\Users\HP\Downloads\Chess\ChessUI\obj\Debug\net6.0-windows7.0\ChessUI_MarkupCompile.cache
+C:\Users\HP\Downloads\Chess\ChessUI\obj\Debug\net6.0-windows7.0\ChessUI_MarkupCompile.lref
+C:\Users\HP\Downloads\Chess\ChessUI\obj\Debug\net6.0-windows7.0\App.baml
+C:\Users\HP\Downloads\Chess\ChessUI\obj\Debug\net6.0-windows7.0\GameOverMenu.baml
+C:\Users\HP\Downloads\Chess\ChessUI\obj\Debug\net6.0-windows7.0\MainWindow.baml
+C:\Users\HP\Downloads\Chess\ChessUI\obj\Debug\net6.0-windows7.0\ChessUI.g.resources
+C:\Users\HP\Downloads\Chess\ChessUI\obj\Debug\net6.0-windows7.0\ChessUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Chess\ChessUI\obj\Debug\net6.0-windows7.0\ChessUI.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Chess\ChessUI\obj\Debug\net6.0-windows7.0\ChessUI.AssemblyInfo.cs
+C:\Users\HP\Downloads\Chess\ChessUI\obj\Debug\net6.0-windows7.0\ChessUI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Chess\ChessUI\obj\Debug\net6.0-windows7.0\ChessUI.csproj.Up2Date
+C:\Users\HP\Downloads\Chess\ChessUI\obj\Debug\net6.0-windows7.0\ChessUI.dll
+C:\Users\HP\Downloads\Chess\ChessUI\obj\Debug\net6.0-windows7.0\refint\ChessUI.dll
+C:\Users\HP\Downloads\Chess\ChessUI\obj\Debug\net6.0-windows7.0\ChessUI.pdb
+C:\Users\HP\Downloads\Chess\ChessUI\obj\Debug\net6.0-windows7.0\ChessUI.genruntimeconfig.cache
+C:\Users\HP\Downloads\Chess\ChessUI\obj\Debug\net6.0-windows7.0\ref\ChessUI.dll
+C:\Users\HP\Downloads\Chess\ChessUI\obj\Debug\net6.0-windows7.0\PromotionMenu.g.cs
+C:\Users\HP\Downloads\Chess\ChessUI\obj\Debug\net6.0-windows7.0\PromotionMenu.baml
+C:\Users\HP\Downloads\Chess\ChessUI\obj\Debug\net6.0-windows7.0\PauseMenu.g.cs
+C:\Users\HP\Downloads\Chess\ChessUI\obj\Debug\net6.0-windows7.0\PauseMenu.baml
+C:\Users\HP\Downloads\Chess\ChessUI\obj\Debug\net6.0-windows7.0\LoginWindow.baml
+C:\Users\HP\Downloads\Chess\ChessUI\obj\Debug\net6.0-windows7.0\LoginWindow.g.cs
+C:\Users\HP\Downloads\Chess\ChessUI\bin\Debug\net6.0-windows7.0\BouncyCastle.Cryptography.dll
+C:\Users\HP\Downloads\Chess\ChessUI\bin\Debug\net6.0-windows7.0\Google.Protobuf.dll
+C:\Users\HP\Downloads\Chess\ChessUI\bin\Debug\net6.0-windows7.0\K4os.Compression.LZ4.dll
+C:\Users\HP\Downloads\Chess\ChessUI\bin\Debug\net6.0-windows7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\Downloads\Chess\ChessUI\bin\Debug\net6.0-windows7.0\K4os.Hash.xxHash.dll
+C:\Users\HP\Downloads\Chess\ChessUI\bin\Debug\net6.0-windows7.0\MySql.Data.dll
+C:\Users\HP\Downloads\Chess\ChessUI\bin\Debug\net6.0-windows7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Downloads\Chess\ChessUI\bin\Debug\net6.0-windows7.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Downloads\Chess\ChessUI\bin\Debug\net6.0-windows7.0\System.IO.Pipelines.dll
+C:\Users\HP\Downloads\Chess\ChessUI\bin\Debug\net6.0-windows7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Downloads\Chess\ChessUI\bin\Debug\net6.0-windows7.0\System.Security.Permissions.dll
+C:\Users\HP\Downloads\Chess\ChessUI\bin\Debug\net6.0-windows7.0\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Downloads\Chess\ChessUI\bin\Debug\net6.0-windows7.0\System.Text.Encodings.Web.dll
+C:\Users\HP\Downloads\Chess\ChessUI\bin\Debug\net6.0-windows7.0\System.Text.Json.dll
+C:\Users\HP\Downloads\Chess\ChessUI\bin\Debug\net6.0-windows7.0\System.Windows.Extensions.dll
+C:\Users\HP\Downloads\Chess\ChessUI\bin\Debug\net6.0-windows7.0\ZstdSharp.dll
+C:\Users\HP\Downloads\Chess\ChessUI\bin\Debug\net6.0-windows7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\HP\Downloads\Chess\ChessUI\bin\Debug\net6.0-windows7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\HP\Downloads\Chess\ChessUI\bin\Debug\net6.0-windows7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\HP\Downloads\Chess\ChessUI\bin\Debug\net6.0-windows7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\HP\Downloads\Chess\ChessUI\bin\Debug\net6.0-windows7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\HP\Downloads\Chess\ChessUI\bin\Debug\net6.0-windows7.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Downloads\Chess\ChessUI\bin\Debug\net6.0-windows7.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\HP\Downloads\Chess\ChessUI\bin\Debug\net6.0-windows7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\bin\Debug\net6.0-windows7.0\ChessUI.exe
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\bin\Debug\net6.0-windows7.0\ChessUI.deps.json
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\bin\Debug\net6.0-windows7.0\ChessUI.runtimeconfig.json
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\bin\Debug\net6.0-windows7.0\ChessUI.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\bin\Debug\net6.0-windows7.0\ChessUI.pdb
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\bin\Debug\net6.0-windows7.0\BouncyCastle.Cryptography.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\bin\Debug\net6.0-windows7.0\Google.Protobuf.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\bin\Debug\net6.0-windows7.0\K4os.Compression.LZ4.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\bin\Debug\net6.0-windows7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\bin\Debug\net6.0-windows7.0\K4os.Hash.xxHash.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\bin\Debug\net6.0-windows7.0\MySql.Data.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\bin\Debug\net6.0-windows7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\bin\Debug\net6.0-windows7.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\bin\Debug\net6.0-windows7.0\System.IO.Pipelines.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\bin\Debug\net6.0-windows7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\bin\Debug\net6.0-windows7.0\System.Security.Permissions.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\bin\Debug\net6.0-windows7.0\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\bin\Debug\net6.0-windows7.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\bin\Debug\net6.0-windows7.0\System.Text.Json.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\bin\Debug\net6.0-windows7.0\System.Windows.Extensions.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\bin\Debug\net6.0-windows7.0\ZstdSharp.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\bin\Debug\net6.0-windows7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\bin\Debug\net6.0-windows7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\bin\Debug\net6.0-windows7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\bin\Debug\net6.0-windows7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\bin\Debug\net6.0-windows7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\bin\Debug\net6.0-windows7.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\bin\Debug\net6.0-windows7.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\bin\Debug\net6.0-windows7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\bin\Debug\net6.0-windows7.0\ChessLogic.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\bin\Debug\net6.0-windows7.0\ChessLogic.pdb
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\obj\Debug\net6.0-windows7.0\ChessUI.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\obj\Debug\net6.0-windows7.0\LoginWindow.baml
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\obj\Debug\net6.0-windows7.0\GameOverMenu.g.cs
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\obj\Debug\net6.0-windows7.0\LoginWindow.g.cs
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\obj\Debug\net6.0-windows7.0\MainWindow.g.cs
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\obj\Debug\net6.0-windows7.0\PauseMenu.g.cs
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\obj\Debug\net6.0-windows7.0\PromotionMenu.g.cs
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\obj\Debug\net6.0-windows7.0\App.g.cs
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\obj\Debug\net6.0-windows7.0\ChessUI_MarkupCompile.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\obj\Debug\net6.0-windows7.0\ChessUI_MarkupCompile.lref
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\obj\Debug\net6.0-windows7.0\App.baml
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\obj\Debug\net6.0-windows7.0\GameOverMenu.baml
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\obj\Debug\net6.0-windows7.0\MainWindow.baml
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\obj\Debug\net6.0-windows7.0\PauseMenu.baml
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\obj\Debug\net6.0-windows7.0\PromotionMenu.baml
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\obj\Debug\net6.0-windows7.0\ChessUI.g.resources
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\obj\Debug\net6.0-windows7.0\ChessUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\obj\Debug\net6.0-windows7.0\ChessUI.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\obj\Debug\net6.0-windows7.0\ChessUI.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\obj\Debug\net6.0-windows7.0\ChessUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\obj\Debug\net6.0-windows7.0\ChessUI.csproj.Up2Date
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\obj\Debug\net6.0-windows7.0\ChessUI.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\obj\Debug\net6.0-windows7.0\refint\ChessUI.dll
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\obj\Debug\net6.0-windows7.0\ChessUI.pdb
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\obj\Debug\net6.0-windows7.0\ChessUI.genruntimeconfig.cache
+C:\Users\Admin\OneDrive - Hanoi University of Science and Technology\Desktop\Chess\ChessUI\obj\Debug\net6.0-windows7.0\ref\ChessUI.dll

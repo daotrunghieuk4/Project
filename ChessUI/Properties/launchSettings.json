@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ChessUI": {
+      "commandName": "Project",
+      "hotReloadEnabled": true
+    }
+  }
+}
